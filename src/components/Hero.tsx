@@ -39,7 +39,7 @@ function Hero({ name = profile.name }: HeroProps) {
           <div className="mt-9 flex flex-wrap items-center gap-4">
             <a
               className="button-primary"
-              href="/resume.pdf"
+              href={`${import.meta.env.BASE_URL}resume.pdf`}
               download="Pratyush-Singh-Resume.pdf"
             >
               <Download size={17} />
