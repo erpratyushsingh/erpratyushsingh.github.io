@@ -40,7 +40,7 @@ function Hero({ name = profile.name }: HeroProps) {
             <a
               className="button-primary"
               href={`${import.meta.env.BASE_URL}resume.pdf`}
-              download="Pratyush-Singh-Resume.pdf"
+              download="Pratyush_8YOE.pdf"
             >
               <Download size={17} />
               Download resume
