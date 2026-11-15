@@ -41,7 +41,7 @@ export const profile: Profile = {
   location: "Bengaluru, India",
   email: "erpratyushsingh08@gmail.com",
   linkedInUrl: "https://www.linkedin.com/in/pratzz/",
-  githubUrl: "https://github.com/Pratzz08",
+  githubUrl: "https://github.com/erpratyushsingh",
   yearsExperience: "8+",
   education: "B.E. in Information Technology, Panjab University",
 };
