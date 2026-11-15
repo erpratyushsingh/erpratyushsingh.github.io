@@ -43,7 +43,7 @@ export const profile: Profile = {
   linkedInUrl: "https://www.linkedin.com/in/pratzz/",
   githubUrl: "https://github.com/erpratyushsingh",
   yearsExperience: "8+",
-  education: "B.E. in Information Technology, Panjab University",
+  education: "B.E. in Information Technology - UIET, Panjab University",
 };
 
 export const experience: ExperienceItem[] = [
